@@ -71,10 +71,11 @@ response example
     "code": 200,
     "msg": "Success",
     "data": {
-        "id": 1,
-        "name": "Sandal Mahal",
-        "price": 5000000,
-        "image": "https://anu.com/sandal-mahal.jpg"
+        "id": 4,
+        "FirstName": "jarjit",
+        "LastName": "singh",
+        "Avatar": "https://api.adorable.io/avatars/120/jarjitsingh.png",
+        "Age": 10
     }
 }
 ```
